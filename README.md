@@ -1,2 +1,2 @@
-# leetcode-problems-solutions
-leetcode's problems and solutions
+# leetcode-problems-practice
+leetcode's problems practice
